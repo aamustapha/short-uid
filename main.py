@@ -27,7 +27,7 @@ def uid62(*prefixes):
     """
     return uid(62, *prefixes)
 
-def uid35(*prefixes):
+def uid36(*prefixes):
     """
     Generates a UID which is case insensitive using only lower case characters
     """
