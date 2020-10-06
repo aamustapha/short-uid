@@ -1,14 +1,14 @@
 from distutils.core import setup
 setup(
-  name = 'short-uid',
-  packages = ['short-uid'],
-  version = '0.0.1', 
+  name = 'shortuid',
+  packages = ['shortuid'],
+  version = '0.0.2', 
   license='MIT',
   description = 'Mini package for generating fairly unique but short IDs', 
   author = 'Abdulhakeem Mustapha',                   # Type in your name
   author_email = 'abdulhakeemmustapha@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/aamustapha/short-uid',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/aamustapha/short-uid/archive/v_001.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/aamustapha/short-uid/archive/v_002.tar.gz',    # I explain this later on
   keywords = ['UUID', 'UUID indexing', 'short uuid', 'short-uid'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           
